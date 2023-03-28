@@ -1,0 +1,31 @@
+name: Dd
+version: '${project.version}'
+main: dd.dd.pluginstartup
+api-version: 1.19
+description: dd
+author: CANICK
+
+commands:
+ malus:
+  description: teleport player on your bad
+  usage: /molus
+
+ aqua:
+  description: god for player
+  usage: /aqua
+
+ death:
+  description: death
+  usage: /death
+
+ setcfg:
+  description: change cfg dd
+  usage: /setcfg
+
+ permissions:
+  myplugin.createfile:
+   description: Allows the plugin to create files
+
+
+
+

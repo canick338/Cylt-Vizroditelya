@@ -1,0 +1,7 @@
+# MyConfig.yml
+
+players:
+  <player_uuid>:
+    uuid: <player_uuid>
+    permissions:
+      - molus.active.never

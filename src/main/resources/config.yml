@@ -1,0 +1,45 @@
+x: 125.5
+y: 80
+z: 125.5
+
+x1: 125.5
+y1: 80
+z1: 125.5
+
+x2: 125.5
+y2: 80
+z2: 125.5
+
+PotionName: "Фиал Крови Возродителя"
+
+Suicide: "FOR GOD MY FLOOD"
+
+bed_end: true
+
+Owner: "DimkaShowYT"
+
+dagger: "У служителей Кровавому Солнцу всегда в рукаве два кинжала!"
+
+maxDist: 3
+
+CoordDedoTeleport: 3
+
+excpect: true
+
+TeleportIllud: "Dedo meam voluntatem! Abscide sine dubio! Ignosco mihi omnem pudorem! Et illud totum committo Revivus! Malus!"
+
+
+Groups:
+  member:
+    permissions:
+    - molus.active.never
+    - nigger.dead.only
+
+permissions:
+    <player1-uuid>:
+      - molus.active.never
+
+
+
+
+
